@@ -64,6 +64,7 @@ body {
 
 .task.reminder {
   border-left: 5px solid green;
+  border-right: 5px ridge green;
 }
 
 .task h3 {
